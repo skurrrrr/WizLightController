@@ -1,0 +1,5 @@
+My girlfriend is very fond of the types of cheap IOT lights you can buy at hardware stores. They are energy efficient and can be changed to a variety of colors, but I find the Android app to be lacking. Specifically, the app does not seem to handle the fact that the lights have don't connect well to the Wifi and therefor miss a lot of the commands.
+
+To remediate these inequicies, I'm going to code a suite of tools that will allow us to automate these lights better. Previously I found a few scant peices of information on how to turn the lights on and off using curl commands, or query them for their current states for a JSON response. I'm going to build upon this information and create some tools that do the job better than the app the lights ship with.
+
+The first part of the project will be coming up with a system that queries the current state of the lights and stores this data.
