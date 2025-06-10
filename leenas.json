@@ -1,0 +1,315 @@
+[
+    {
+        "room": "Living Room",
+        "location": "Back Right",
+        "ip": "192.168.50.26",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990ea6cba",
+                "rssi": -67,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 50
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.40",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990ea6cba",
+                "rssi": -67,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 50
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.54",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990211fdb",
+                "rssi": -77,
+                "src": "",
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 70
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.67",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50d2fd3a",
+                "rssi": -58,
+                "src": "",
+                "state": false,
+                "sceneId": 6,
+                "dimming": 35
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.86",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50f58313",
+                "rssi": -67,
+                "src": "",
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 40
+            }
+        },
+    },
+    {
+        "room": "Bedroom",
+        "location": "Dan's Side",
+        "ip": "192.168.50.99",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990574dc4",
+                "rssi": -62,
+                "state": true,
+                "sceneId": 11,
+                "temp": 2700,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.103",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990e4531e",
+                "rssi": -72,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 21
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.124",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50b9525d",
+                "rssi": -77,
+                "src": "",
+                "state": true,
+                "sceneId": 11,
+                "temp": 2700,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.128",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "cc40859ffd12",
+                "rssi": -63,
+                "state": false,
+                "sceneId": 22,
+                "speed": 100,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.130",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990ea51c4",
+                "rssi": -78,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 40
+            }
+        },
+    },
+    {
+        "room": "Living Room",
+        "location": "Center Right",
+        "ip": "192.168.50.145",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990ea6cba",
+                "rssi": -67,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 50
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.175",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990e46d00",
+                "rssi": -82,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 16
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.185",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50f9e051",
+                "rssi": -77,
+                "src": "",
+                "state": true,
+                "sceneId": 11,
+                "temp": 2700,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.187",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50f9df9b",
+                "rssi": -73,
+                "src": "",
+                "state": true,
+                "sceneId": 11,
+                "temp": 2700,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "Living Room",
+        "location": "Back Right",
+        "ip": "192.168.50.191",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "d8a0116a0cf4",
+                "rssi": -78,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.216",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "6c2990e54af2",
+                "rssi": -89,
+                "state": true,
+                "sceneId": 0,
+                "temp": 2500,
+                "dimming": 24
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.218",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50d8570c",
+                "rssi": -58,
+                "src": "",
+                "state": false,
+                "sceneId": 11,
+                "temp": 2700,
+                "dimming": 100
+            }
+        },
+    },
+    {
+        "room": "",
+        "location": "",
+        "ip": "192.168.50.234",
+        "response": {
+            "method": "getPilot",
+            "env": "pro",
+            "result": {
+                "mac": "a8bb50b978cb",
+                "rssi": -77,
+                "src": "",
+                "state": false,
+                "sceneId": 12,
+                "temp": 2450,
+                "dimming": 30
+            }
+        },
+    },
+]

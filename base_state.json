@@ -1,0 +1,47 @@
+[
+    {
+        "ip": "192.168.50.67",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"a8bb50d2fd3a\",\"rssi\":-63,\"src\":\"\",\"state\":true,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:30:23"
+    },
+    {
+        "ip": "192.168.50.218",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"a8bb50d8570c\",\"rssi\":-52,\"src\":\"\",\"state\":false,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:32:50"
+    },
+    {
+        "ip": "192.168.50.225",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"6c2990574a20\",\"rssi\":-59,\"state\":false,\"sceneId\":29,\"dimming\":44}}",
+        "timestamp": "2025-05-28 10:32:57"
+    },
+    {
+        "ip": "192.168.50.247",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"6c29902a00e8\",\"rssi\":-77,\"src\":\"\",\"state\":true,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:33:18"
+    },
+    {
+        "ip": "192.168.50.248",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"6c29904f1e18\",\"rssi\":-53,\"src\":\"\",\"state\":true,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:33:18"
+    },
+    {
+        "ip": "192.168.50.191",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"d8a0116a0cf4\",\"rssi\":-73,\"state\":true,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:32:24"
+    },
+    {
+        "ip": "192.168.50.26",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"d8a01128c42a\",\"rssi\":-66,\"state\":true,\"sceneId\":12,\"temp\":4200,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:33:42"
+    },
+    {
+        "ip": "192.168.50.145",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"a8bb50b183da\",\"rssi\":-73,\"src\":\"\",\"state\":true,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:31:39"
+    },
+    {
+        "ip": "192.168.50.99",
+        "response": "{\"method\":\"getPilot\",\"env\":\"pro\",\"result\":{\"mac\":\"6c2990574dc4\",\"rssi\":-62,\"state\":true,\"sceneId\":11,\"temp\":2700,\"dimming\":100}}",
+        "timestamp": "2025-05-28 10:30:54"
+    }
+]
